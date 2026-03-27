@@ -15,7 +15,7 @@
 
 ## 生成的规则文件
 
-生成的规则文件位于 [`rule/Custom_Direct.yaml`](rule/Custom_Direct.yaml)，格式如下：
+生成的规则文件位于 [`rule/Torrent_Tracker_Direct.yaml`](rule/Torrent_Tracker_Direct.yaml)，格式如下：
 
 ```yaml
 # Generated from rule/Custom_Direct.yaml
@@ -54,7 +54,7 @@ Tracker-Direct-List/
 ├── scripts/
 │   └── convert.py                 # 转换脚本
 ├── rule/
-│   └── Custom_Direct.yaml         # 生成的规则文件
+│   └── Torrent_Tracker_Direct.yaml         # 生成的规则文件
 ├── README.md                       # 中文说明
 └── README_en.md                    # English README
 ```

@@ -15,7 +15,7 @@ This project uses GitHub Actions to automatically update the tracker list every 
 
 ## Generated Rules File
 
-The generated rules file is located at [`rule/Custom_Direct.yaml`](rule/Custom_Direct.yaml), formatted as follows:
+The generated rules file is located at [`rule/Torrent_Tracker_Direct.yaml`](rule/Torrent_Tracker_Direct.yaml), formatted as follows:
 
 ```yaml
 # Generated from rule/Custom_Direct.yaml
@@ -54,7 +54,7 @@ Tracker-Direct-List/
 ├── scripts/
 │   └── convert.py                 # Conversion script
 ├── rule/
-│   └── Custom_Direct.yaml        # Generated rules file
+│   └── Torrent_Tracker_Direct.yaml        # Generated rules file
 ├── README.md                      # Chinese README
 └── README_en.md                   # English README
 ```
