@@ -6,7 +6,6 @@ Convert trackers from ngosang/trackerslist to OpenClash rules format
 
 import os
 import requests
-import yaml
 from datetime import datetime, timezone, timedelta
 from urllib.parse import urlparse
 
@@ -58,7 +57,6 @@ def generate_yaml(trackers):
         f"# REPO: {GITHUB_REPO}",
         f"# SOURCE: {TRACKERS_URL}",
         f"# TOTAL: {total}",
-        f"# UPDATED: {timestamp}",
         "",
         "payload:",
     ]
