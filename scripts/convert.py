@@ -62,7 +62,7 @@ def generate_yaml(trackers):
     ]
     
     # Generate rules
-    payload_lines = [f"  - DOMAIN-SUFFIX:{domain}" for domain in trackers]
+    payload_lines = [f"  - DOMAIN-SUFFIX,{domain}" for domain in trackers]
     
     return '\n'.join(header_lines + payload_lines)
 
