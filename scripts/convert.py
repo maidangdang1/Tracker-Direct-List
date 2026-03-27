@@ -54,7 +54,7 @@ def generate_yaml(trackers):
     timestamp = datetime.now(timezone(timedelta(hours=8))).strftime('%Y-%m-%d %H:%M:%S +0800')
     
     header_lines = [
-        "# Generated from rule/Custom_Direct.yaml",
+        "# Generated from rule/Torrent_Tracker_Direct.yaml",
         f"# REPO: {GITHUB_REPO}",
         f"# SOURCE: {TRACKERS_URL}",
         f"# TOTAL: {total}",
