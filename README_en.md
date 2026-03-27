@@ -18,7 +18,7 @@ This project uses GitHub Actions to automatically update the tracker list every 
 The generated rules file is located at [`rule/Torrent_Tracker_Direct.yaml`](rule/Torrent_Tracker_Direct.yaml), formatted as follows:
 
 ```yaml
-# Generated from rule/Custom_Direct.yaml
+# Generated from rule/Torrent_Tracker_Direct.yaml
 # REPO: https://github.com/ngosang/trackerslist
 # SOURCE: https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt
 # TOTAL: xxx
@@ -32,7 +32,7 @@ payload:
 
 ## Usage in OpenClash
 
-1. Download the `Custom_Direct.yaml` file from this repository
+1. Download the `Torrent_Tracker_Direct.yaml` file from this repository
 2. Add it in OpenClash's "Config File Management"
 3. Select it in the rules settings
 

@@ -32,7 +32,7 @@ payload:
 
 ## 在 OpenClash 中使用
 
-1. 下载本仓库的 `Custom_Direct.yaml` 文件
+1. 下载本仓库的 `Torrent_Tracker_Direct.yaml` 文件
 2. 在 OpenClash 的 "配置文件管理" 中添加
 3. 在规则设置中选择使用
 
