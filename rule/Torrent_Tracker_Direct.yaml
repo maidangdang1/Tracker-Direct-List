@@ -1,19 +1,17 @@
 # Generated from rule/Torrent_Tracker_Direct.yaml
 # REPO: https://github.com/ngosang/trackerslist
 # SOURCE: https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt
-# TOTAL: 79
+# TOTAL: 71
 
 payload:
   - DOMAIN-SUFFIX,004430.xyz
   - DOMAIN-SUFFIX,1337.abcvg.info
   - DOMAIN-SUFFIX,aboutbeautifulgallopinghorsesinthegreenpasture.online
-  - DOMAIN-SUFFIX,bandito.byterunner.io
   - DOMAIN-SUFFIX,bittorrent-tracker.e-n-c-r-y-p-t.net
   - DOMAIN-SUFFIX,bvarf.tracker.sh
   - DOMAIN-SUFFIX,d40969.acod.regrucolo.ru
   - DOMAIN-SUFFIX,evan.im
   - DOMAIN-SUFFIX,exodus.desync.com
-  - DOMAIN-SUFFIX,explodie.org
   - DOMAIN-SUFFIX,extracker.dahrkael.net
   - DOMAIN-SUFFIX,ipv4announce.sktorrent.eu
   - DOMAIN-SUFFIX,leet-tracker.moe
@@ -22,14 +20,13 @@ payload:
   - DOMAIN-SUFFIX,ns575949.ip-51-222-82.net
   - DOMAIN-SUFFIX,open.acgtracker.com
   - DOMAIN-SUFFIX,open.demonoid.ch
+  - DOMAIN-SUFFIX,open.dstud.io
   - DOMAIN-SUFFIX,open.stealth.si
-  - DOMAIN-SUFFIX,opentracker.io
   - DOMAIN-SUFFIX,pybittrack.retiolus.net
   - DOMAIN-SUFFIX,rekcart.duckdns.org
   - DOMAIN-SUFFIX,seedpeer.net
   - DOMAIN-SUFFIX,shahidrazi.online
   - DOMAIN-SUFFIX,t.213891.xyz
-  - DOMAIN-SUFFIX,t.overflow.biz
   - DOMAIN-SUFFIX,torrentclub.online
   - DOMAIN-SUFFIX,tr.highstar.shop
   - DOMAIN-SUFFIX,tr.kxmp.cf
@@ -40,7 +37,6 @@ payload:
   - DOMAIN-SUFFIX,tracker-udp.gbitt.info
   - DOMAIN-SUFFIX,tracker.004430.xyz
   - DOMAIN-SUFFIX,tracker.1h.is
-  - DOMAIN-SUFFIX,tracker.23794.top
   - DOMAIN-SUFFIX,tracker.bittor.pw
   - DOMAIN-SUFFIX,tracker.bluefrog.pw
   - DOMAIN-SUFFIX,tracker.bt4g.com
@@ -71,9 +67,6 @@ payload:
   - DOMAIN-SUFFIX,tracker.skyts.net
   - DOMAIN-SUFFIX,tracker.srv00.com
   - DOMAIN-SUFFIX,tracker.t-1.org
-  - DOMAIN-SUFFIX,tracker.theoks.net
-  - DOMAIN-SUFFIX,tracker.therarbg.to
-  - DOMAIN-SUFFIX,tracker.torrent.eu.org
   - DOMAIN-SUFFIX,tracker.torrust-demo.com
   - DOMAIN-SUFFIX,tracker.tritan.gg
   - DOMAIN-SUFFIX,tracker.tryhackx.org
@@ -82,4 +75,3 @@ payload:
   - DOMAIN-SUFFIX,tracker.zhuqiy.com
   - DOMAIN-SUFFIX,tracker2.dler.org
   - DOMAIN-SUFFIX,udp.tracker.projectk.org
-  - DOMAIN-SUFFIX,utracker.ghostchu-services.top
