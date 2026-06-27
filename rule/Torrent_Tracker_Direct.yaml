@@ -1,10 +1,11 @@
 # Generated from rule/Torrent_Tracker_Direct.yaml
 # REPO: https://github.com/ngosang/trackerslist
 # SOURCE: https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt
-# TOTAL: 89
+# TOTAL: 92
 
 payload:
   - DOMAIN-SUFFIX,004430.xyz
+  - DOMAIN-SUFFIX,0123456789nonexistent.com
   - DOMAIN-SUFFIX,0d.kebhana.mx
   - DOMAIN-SUFFIX,1337.abcvg.info
   - DOMAIN-SUFFIX,aboutbeautifulgallopinghorsesinthegreenpasture.online
@@ -15,6 +16,7 @@ payload:
   - DOMAIN-SUFFIX,buny.uk
   - DOMAIN-SUFFIX,concen.org
   - DOMAIN-SUFFIX,evan.im
+  - DOMAIN-SUFFIX,exodus.desync.com
   - DOMAIN-SUFFIX,explodie.org
   - DOMAIN-SUFFIX,home.yxgz.club
   - DOMAIN-SUFFIX,ipv4announce.sktorrent.eu
@@ -22,12 +24,10 @@ payload:
   - DOMAIN-SUFFIX,leet-tracker.moe
   - DOMAIN-SUFFIX,martin-gebhardt.eu
   - DOMAIN-SUFFIX,ns575949.ip-51-222-82.net
-  - DOMAIN-SUFFIX,open.demonii.com
   - DOMAIN-SUFFIX,open.demonoid.ch
   - DOMAIN-SUFFIX,open.ftorrent.com
   - DOMAIN-SUFFIX,open.stealth.si
   - DOMAIN-SUFFIX,open.trackerlist.xyz
-  - DOMAIN-SUFFIX,pybittrack.retiolus.net
   - DOMAIN-SUFFIX,rekcart.duckdns.org
   - DOMAIN-SUFFIX,retracker.spark-rostov.ru
   - DOMAIN-SUFFIX,retracker01-msk-virt.corbina.net
@@ -45,7 +45,6 @@ payload:
   - DOMAIN-SUFFIX,tr.highstar.shop
   - DOMAIN-SUFFIX,tr.nyacat.pw
   - DOMAIN-SUFFIX,tr.zukizuki.org
-  - DOMAIN-SUFFIX,tr4ck3r.duckdns.org
   - DOMAIN-SUFFIX,tracker-udp.gbitt.info
   - DOMAIN-SUFFIX,tracker.004430.xyz
   - DOMAIN-SUFFIX,tracker.7471.top
@@ -54,6 +53,7 @@ payload:
   - DOMAIN-SUFFIX,tracker.bluefrog.pw
   - DOMAIN-SUFFIX,tracker.bt-hash.com
   - DOMAIN-SUFFIX,tracker.bt4g.com
+  - DOMAIN-SUFFIX,tracker.bz
   - DOMAIN-SUFFIX,tracker.corpscorp.online
   - DOMAIN-SUFFIX,tracker.ddunlimited.net
   - DOMAIN-SUFFIX,tracker.dhitechnical.com
@@ -61,10 +61,11 @@ payload:
   - DOMAIN-SUFFIX,tracker.dler.org
   - DOMAIN-SUFFIX,tracker.dmcomic.org
   - DOMAIN-SUFFIX,tracker.ducks.party
-  - DOMAIN-SUFFIX,tracker.filemail.com
+  - DOMAIN-SUFFIX,tracker.flatuslifir.is
   - DOMAIN-SUFFIX,tracker.gcrenwp.top
   - DOMAIN-SUFFIX,tracker.gmi.gd
   - DOMAIN-SUFFIX,tracker.hismz.cn
+  - DOMAIN-SUFFIX,tracker.ipv6tracker.org
   - DOMAIN-SUFFIX,tracker.leechshield.link
   - DOMAIN-SUFFIX,tracker.lintk.me
   - DOMAIN-SUFFIX,tracker.moxing.party
@@ -80,6 +81,7 @@ payload:
   - DOMAIN-SUFFIX,tracker.qu.ax
   - DOMAIN-SUFFIX,tracker.renfei.net
   - DOMAIN-SUFFIX,tracker.sbsub.com
+  - DOMAIN-SUFFIX,tracker.therarbg.to
   - DOMAIN-SUFFIX,tracker.torrent.eu.org
   - DOMAIN-SUFFIX,tracker.tritan.gg
   - DOMAIN-SUFFIX,tracker.vanitycore.co
@@ -90,6 +92,7 @@ payload:
   - DOMAIN-SUFFIX,tracker.zhuqiy.com
   - DOMAIN-SUFFIX,tracker2.dler.org
   - DOMAIN-SUFFIX,tracker810.xyz
+  - DOMAIN-SUFFIX,www.genesis-sp.org
   - DOMAIN-SUFFIX,www.torrentsnipe.info
   - DOMAIN-SUFFIX,yuptracker-eu.gaijinent.com
   - DOMAIN-SUFFIX,zer0day.ch
