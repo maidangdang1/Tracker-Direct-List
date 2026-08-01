@@ -1,7 +1,7 @@
 # Generated from rule/Torrent_Tracker_Direct.yaml
 # REPO: https://github.com/ngosang/trackerslist
 # SOURCE: https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt
-# TOTAL: 96
+# TOTAL: 97
 
 payload:
   - DOMAIN-SUFFIX,004430.xyz
@@ -67,7 +67,6 @@ payload:
   - DOMAIN-SUFFIX,tracker.dler.org
   - DOMAIN-SUFFIX,tracker.dmcomic.org
   - DOMAIN-SUFFIX,tracker.ducks.party
-  - DOMAIN-SUFFIX,tracker.filemail.com
   - DOMAIN-SUFFIX,tracker.gcrenwp.top
   - DOMAIN-SUFFIX,tracker.gmi.gd
   - DOMAIN-SUFFIX,tracker.ilibr.org
@@ -82,15 +81,16 @@ payload:
   - DOMAIN-SUFFIX,tracker.opentrackr.org
   - DOMAIN-SUFFIX,tracker.peerfect.org
   - DOMAIN-SUFFIX,tracker.playground.ru
-  - DOMAIN-SUFFIX,tracker.plx.im
   - DOMAIN-SUFFIX,tracker.pmman.tech
   - DOMAIN-SUFFIX,tracker.privateseedbox.xyz
   - DOMAIN-SUFFIX,tracker.publictracker.xyz
   - DOMAIN-SUFFIX,tracker.qu.ax
   - DOMAIN-SUFFIX,tracker.renfei.net
   - DOMAIN-SUFFIX,tracker.sbsub.com
+  - DOMAIN-SUFFIX,tracker.skynetcloud.site
   - DOMAIN-SUFFIX,tracker.teambelgium.net
   - DOMAIN-SUFFIX,tracker.therarbg.to
+  - DOMAIN-SUFFIX,tracker.torrent.eu.org
   - DOMAIN-SUFFIX,tracker.waaa.moe
   - DOMAIN-SUFFIX,tracker.wildkat.net
   - DOMAIN-SUFFIX,tracker.xiaoduola.xyz
@@ -100,3 +100,4 @@ payload:
   - DOMAIN-SUFFIX,tracker810.xyz
   - DOMAIN-SUFFIX,www.genesis-sp.org
   - DOMAIN-SUFFIX,www.torrentsnipe.info
+  - DOMAIN-SUFFIX,zer0day.ch
