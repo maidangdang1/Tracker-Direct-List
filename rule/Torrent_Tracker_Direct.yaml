@@ -1,7 +1,7 @@
 # Generated from rule/Torrent_Tracker_Direct.yaml
 # REPO: https://github.com/ngosang/trackerslist
 # SOURCE: https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt
-# TOTAL: 66
+# TOTAL: 67
 
 payload:
   - DOMAIN-SUFFIX,1337.abcvg.info
@@ -43,13 +43,13 @@ payload:
   - DOMAIN-SUFFIX,tracker.dler.org
   - DOMAIN-SUFFIX,tracker.ducks.party
   - DOMAIN-SUFFIX,tracker.farted.net
-  - DOMAIN-SUFFIX,tracker.filemail.com
   - DOMAIN-SUFFIX,tracker.foreverpirates.co
   - DOMAIN-SUFFIX,tracker.gmi.gd
   - DOMAIN-SUFFIX,tracker.govt.hu
   - DOMAIN-SUFFIX,tracker.ilibr.org
   - DOMAIN-SUFFIX,tracker.k.vu
   - DOMAIN-SUFFIX,tracker.mywaifu.best
+  - DOMAIN-SUFFIX,tracker.nekomi.cn
   - DOMAIN-SUFFIX,tracker.nexusstream.eu
   - DOMAIN-SUFFIX,tracker.nyaa.net
   - DOMAIN-SUFFIX,tracker.onetracker.net
@@ -63,6 +63,7 @@ payload:
   - DOMAIN-SUFFIX,tracker.qu.ax
   - DOMAIN-SUFFIX,tracker.renfei.net
   - DOMAIN-SUFFIX,tracker.teambelgium.net
+  - DOMAIN-SUFFIX,tracker.torrent.eu.org
   - DOMAIN-SUFFIX,tracker.tryhackx.org
   - DOMAIN-SUFFIX,tracker.waaa.moe
   - DOMAIN-SUFFIX,tracker.wildkat.net
