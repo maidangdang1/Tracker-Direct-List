@@ -1,24 +1,25 @@
 # Generated from rule/Torrent_Tracker_Direct.yaml
 # REPO: https://github.com/ngosang/trackerslist
 # SOURCE: https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt
-# TOTAL: 64
+# TOTAL: 69
 
 payload:
+  - DOMAIN-SUFFIX,004430.xyz
   - DOMAIN-SUFFIX,1337.abcvg.info
   - DOMAIN-SUFFIX,admin.52ywp.com
   - DOMAIN-SUFFIX,anime-tracker.aruku.kro.kr
-  - DOMAIN-SUFFIX,archive.torrentonline.cc
   - DOMAIN-SUFFIX,bittorrent-tracker.e-n-c-r-y-p-t.net
   - DOMAIN-SUFFIX,evan.im
+  - DOMAIN-SUFFIX,exodus.desync.com
   - DOMAIN-SUFFIX,explodie.org
   - DOMAIN-SUFFIX,ipv4announce.sktorrent.eu
+  - DOMAIN-SUFFIX,kolanopentracker.airdns.org
   - DOMAIN-SUFFIX,mail.segso.net
   - DOMAIN-SUFFIX,martin-gebhardt.eu
   - DOMAIN-SUFFIX,ns575949.ip-51-222-82.net
   - DOMAIN-SUFFIX,open.demonii.com
   - DOMAIN-SUFFIX,open.ftorrent.com
   - DOMAIN-SUFFIX,open.stealth.si
-  - DOMAIN-SUFFIX,pybittrack.retiolus.net
   - DOMAIN-SUFFIX,rekcart.duckdns.org
   - DOMAIN-SUFFIX,retracker01-msk-virt.corbina.net
   - DOMAIN-SUFFIX,seedpeer.net
@@ -42,6 +43,7 @@ payload:
   - DOMAIN-SUFFIX,tracker.dler.org
   - DOMAIN-SUFFIX,tracker.ducks.party
   - DOMAIN-SUFFIX,tracker.farted.net
+  - DOMAIN-SUFFIX,tracker.filemail.com
   - DOMAIN-SUFFIX,tracker.foreverpirates.co
   - DOMAIN-SUFFIX,tracker.gmi.gd
   - DOMAIN-SUFFIX,tracker.govt.hu
@@ -52,6 +54,7 @@ payload:
   - DOMAIN-SUFFIX,tracker.nyaa.net
   - DOMAIN-SUFFIX,tracker.nyaa.vc
   - DOMAIN-SUFFIX,tracker.onetracker.net
+  - DOMAIN-SUFFIX,tracker.opentorrent.top
   - DOMAIN-SUFFIX,tracker.opentrackr.com
   - DOMAIN-SUFFIX,tracker.opentrackr.org
   - DOMAIN-SUFFIX,tracker.peerfect.org
@@ -61,10 +64,12 @@ payload:
   - DOMAIN-SUFFIX,tracker.qu.ax
   - DOMAIN-SUFFIX,tracker.renfei.net
   - DOMAIN-SUFFIX,tracker.teambelgium.net
+  - DOMAIN-SUFFIX,tracker.theoks.net
   - DOMAIN-SUFFIX,tracker.torrent.eu.org
   - DOMAIN-SUFFIX,tracker.torrents.observer
   - DOMAIN-SUFFIX,tracker.waaa.moe
   - DOMAIN-SUFFIX,tracker.wildkat.net
+  - DOMAIN-SUFFIX,tracker.zhuqiy.com
   - DOMAIN-SUFFIX,tracker.zhuqiy.dgj055.icu
   - DOMAIN-SUFFIX,tracker2.dler.org
   - DOMAIN-SUFFIX,yuptracker-eu.gaijinent.com
