@@ -27,9 +27,11 @@ payload:
   - DOMAIN-SUFFIX,t.overflow.biz
   - DOMAIN-SUFFIX,torrent.tracker.durukanbal.com
   - DOMAIN-SUFFIX,tr.nyacat.pw
+  - DOMAIN-SUFFIX,tr3.ysagin.top
   - DOMAIN-SUFFIX,tr4ck3r.duckdns.org
   - DOMAIN-SUFFIX,tracker-udp.gbitt.info
   - DOMAIN-SUFFIX,tracker.004430.xyz
+  - DOMAIN-SUFFIX,tracker.23794.top
   - DOMAIN-SUFFIX,tracker.7471.top
   - DOMAIN-SUFFIX,tracker.aruku.ovh
   - DOMAIN-SUFFIX,tracker.bittor.pw
@@ -49,7 +51,6 @@ payload:
   - DOMAIN-SUFFIX,tracker.nekomi.cn
   - DOMAIN-SUFFIX,tracker.nyaa.net
   - DOMAIN-SUFFIX,tracker.nyaa.vc
-  - DOMAIN-SUFFIX,tracker.onetracker.net
   - DOMAIN-SUFFIX,tracker.opentorrent.top
   - DOMAIN-SUFFIX,tracker.opentrackr.com
   - DOMAIN-SUFFIX,tracker.opentrackr.org
@@ -58,10 +59,9 @@ payload:
   - DOMAIN-SUFFIX,tracker.pmman.tech
   - DOMAIN-SUFFIX,tracker.qu.ax
   - DOMAIN-SUFFIX,tracker.renfei.net
+  - DOMAIN-SUFFIX,tracker.skynetcloud.site
   - DOMAIN-SUFFIX,tracker.teambelgium.net
-  - DOMAIN-SUFFIX,tracker.torrent.eu.org
   - DOMAIN-SUFFIX,tracker.torrents.observer
-  - DOMAIN-SUFFIX,tracker.tryhackx.org
   - DOMAIN-SUFFIX,tracker.waaa.moe
   - DOMAIN-SUFFIX,tracker.wildkat.net
   - DOMAIN-SUFFIX,tracker.zhuqiy.com
