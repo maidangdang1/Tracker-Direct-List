@@ -1,12 +1,13 @@
 # Generated from rule/Torrent_Tracker_Direct.yaml
 # REPO: https://github.com/ngosang/trackerslist
 # SOURCE: https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt
-# TOTAL: 68
+# TOTAL: 65
 
 payload:
   - DOMAIN-SUFFIX,004430.xyz
   - DOMAIN-SUFFIX,1337.abcvg.info
   - DOMAIN-SUFFIX,admin.52ywp.com
+  - DOMAIN-SUFFIX,archive.torrentonline.cc
   - DOMAIN-SUFFIX,bittorrent-tracker.e-n-c-r-y-p-t.net
   - DOMAIN-SUFFIX,edgev.duckdns.org
   - DOMAIN-SUFFIX,evan.im
@@ -22,7 +23,6 @@ payload:
   - DOMAIN-SUFFIX,open.ftorrent.com
   - DOMAIN-SUFFIX,open.stealth.si
   - DOMAIN-SUFFIX,open.tracker.cl
-  - DOMAIN-SUFFIX,pybittrack.retiolus.net
   - DOMAIN-SUFFIX,retracker01-msk-virt.corbina.net
   - DOMAIN-SUFFIX,seedpeer.net
   - DOMAIN-SUFFIX,t.213891.xyz
@@ -33,11 +33,9 @@ payload:
   - DOMAIN-SUFFIX,tr4ck3r.duckdns.org
   - DOMAIN-SUFFIX,tracker-udp.gbitt.info
   - DOMAIN-SUFFIX,tracker.004430.xyz
-  - DOMAIN-SUFFIX,tracker.23794.top
   - DOMAIN-SUFFIX,tracker.7471.top
   - DOMAIN-SUFFIX,tracker.aruku.ovh
   - DOMAIN-SUFFIX,tracker.bittor.pw
-  - DOMAIN-SUFFIX,tracker.bug38.com
   - DOMAIN-SUFFIX,tracker.cn.nyaa.net
   - DOMAIN-SUFFIX,tracker.corpscorp.online
   - DOMAIN-SUFFIX,tracker.ddunlimited.net
@@ -63,12 +61,11 @@ payload:
   - DOMAIN-SUFFIX,tracker.qu.ax
   - DOMAIN-SUFFIX,tracker.renfei.net
   - DOMAIN-SUFFIX,tracker.skynetcloud.site
-  - DOMAIN-SUFFIX,tracker.torrent.eu.org
+  - DOMAIN-SUFFIX,tracker.theoks.net
   - DOMAIN-SUFFIX,tracker.torrents.observer
   - DOMAIN-SUFFIX,tracker.waaa.moe
   - DOMAIN-SUFFIX,tracker.wildkat.net
   - DOMAIN-SUFFIX,tracker.zhuqiy.com
   - DOMAIN-SUFFIX,tracker.zhuqiy.dgj055.icu
   - DOMAIN-SUFFIX,tracker2.dler.org
-  - DOMAIN-SUFFIX,whybother.torrentonline.cc
   - DOMAIN-SUFFIX,yuptracker-eu.gaijinent.com
