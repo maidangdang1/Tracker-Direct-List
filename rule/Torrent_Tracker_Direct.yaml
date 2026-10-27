@@ -1,16 +1,16 @@
 # Generated from rule/Torrent_Tracker_Direct.yaml
 # REPO: https://github.com/ngosang/trackerslist
 # SOURCE: https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt
-# TOTAL: 68
+# TOTAL: 69
 
 payload:
   - DOMAIN-SUFFIX,004430.xyz
   - DOMAIN-SUFFIX,1337.abcvg.info
   - DOMAIN-SUFFIX,admin.52ywp.com
+  - DOMAIN-SUFFIX,archive.torrentonline.cc
   - DOMAIN-SUFFIX,bittorrent-tracker.e-n-c-r-y-p-t.net
   - DOMAIN-SUFFIX,edgev.duckdns.org
   - DOMAIN-SUFFIX,evan.im
-  - DOMAIN-SUFFIX,exodus.desync.com
   - DOMAIN-SUFFIX,explodie.org
   - DOMAIN-SUFFIX,ht.therarbg.to
   - DOMAIN-SUFFIX,ipv4announce.sktorrent.eu
@@ -23,6 +23,7 @@ payload:
   - DOMAIN-SUFFIX,open.stealth.si
   - DOMAIN-SUFFIX,open.tracker.cl
   - DOMAIN-SUFFIX,retracker01-msk-virt.corbina.net
+  - DOMAIN-SUFFIX,seedpeer.net
   - DOMAIN-SUFFIX,t.213891.xyz
   - DOMAIN-SUFFIX,t.overflow.biz
   - DOMAIN-SUFFIX,tr.btube3.com
@@ -36,7 +37,6 @@ payload:
   - DOMAIN-SUFFIX,tracker.aruku.ovh
   - DOMAIN-SUFFIX,tracker.bittor.pw
   - DOMAIN-SUFFIX,tracker.cn.nyaa.net
-  - DOMAIN-SUFFIX,tracker.corpscorp.online
   - DOMAIN-SUFFIX,tracker.ddunlimited.net
   - DOMAIN-SUFFIX,tracker.dhitechnical.com
   - DOMAIN-SUFFIX,tracker.dler.com
@@ -44,7 +44,8 @@ payload:
   - DOMAIN-SUFFIX,tracker.ducks.party
   - DOMAIN-SUFFIX,tracker.evergarden.uk
   - DOMAIN-SUFFIX,tracker.farted.net
-  - DOMAIN-SUFFIX,tracker.flatuslifir.is
+  - DOMAIN-SUFFIX,tracker.filemail.com
+  - DOMAIN-SUFFIX,tracker.fnix.net
   - DOMAIN-SUFFIX,tracker.foreverpirates.co
   - DOMAIN-SUFFIX,tracker.gmi.gd
   - DOMAIN-SUFFIX,tracker.ilibr.org
@@ -61,6 +62,7 @@ payload:
   - DOMAIN-SUFFIX,tracker.qu.ax
   - DOMAIN-SUFFIX,tracker.renfei.net
   - DOMAIN-SUFFIX,tracker.skynetcloud.site
+  - DOMAIN-SUFFIX,tracker.theoks.net
   - DOMAIN-SUFFIX,tracker.torrent.eu.org
   - DOMAIN-SUFFIX,tracker.torrents.observer
   - DOMAIN-SUFFIX,tracker.tryhackx.org
@@ -70,5 +72,4 @@ payload:
   - DOMAIN-SUFFIX,tracker.zhuqiy.com
   - DOMAIN-SUFFIX,tracker.zhuqiy.dgj055.icu
   - DOMAIN-SUFFIX,tracker2.dler.org
-  - DOMAIN-SUFFIX,whybother.torrentonline.cc
   - DOMAIN-SUFFIX,yuptracker-eu.gaijinent.com
