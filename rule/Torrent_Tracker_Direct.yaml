@@ -1,18 +1,16 @@
 # Generated from rule/Torrent_Tracker_Direct.yaml
 # REPO: https://github.com/ngosang/trackerslist
 # SOURCE: https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt
-# TOTAL: 68
+# TOTAL: 66
 
 payload:
   - DOMAIN-SUFFIX,004430.xyz
   - DOMAIN-SUFFIX,1337.abcvg.info
   - DOMAIN-SUFFIX,admin.52ywp.com
   - DOMAIN-SUFFIX,anime-tracker.aruku.kro.kr
-  - DOMAIN-SUFFIX,archive.torrentonline.cc
   - DOMAIN-SUFFIX,bittorrent-tracker.e-n-c-r-y-p-t.net
   - DOMAIN-SUFFIX,edgev.duckdns.org
   - DOMAIN-SUFFIX,evan.im
-  - DOMAIN-SUFFIX,exodus.desync.com
   - DOMAIN-SUFFIX,explodie.org
   - DOMAIN-SUFFIX,ht.therarbg.to
   - DOMAIN-SUFFIX,ipv4announce.sktorrent.eu
@@ -31,13 +29,14 @@ payload:
   - DOMAIN-SUFFIX,tr.btube3.com
   - DOMAIN-SUFFIX,tr.highstar.shop
   - DOMAIN-SUFFIX,tr.nyacat.pw
+  - DOMAIN-SUFFIX,tr3.ysagin.top
   - DOMAIN-SUFFIX,tr4ck3r.duckdns.org
   - DOMAIN-SUFFIX,tracker-udp.gbitt.info
   - DOMAIN-SUFFIX,tracker.004430.xyz
   - DOMAIN-SUFFIX,tracker.7471.top
   - DOMAIN-SUFFIX,tracker.aruku.ovh
+  - DOMAIN-SUFFIX,tracker.bittor.pw
   - DOMAIN-SUFFIX,tracker.cn.nyaa.net
-  - DOMAIN-SUFFIX,tracker.corpscorp.online
   - DOMAIN-SUFFIX,tracker.ddunlimited.net
   - DOMAIN-SUFFIX,tracker.dhitechnical.com
   - DOMAIN-SUFFIX,tracker.dler.com
@@ -46,7 +45,7 @@ payload:
   - DOMAIN-SUFFIX,tracker.evergarden.uk
   - DOMAIN-SUFFIX,tracker.farted.net
   - DOMAIN-SUFFIX,tracker.filemail.com
-  - DOMAIN-SUFFIX,tracker.fnix.net
+  - DOMAIN-SUFFIX,tracker.flatuslifir.is
   - DOMAIN-SUFFIX,tracker.foreverpirates.co
   - DOMAIN-SUFFIX,tracker.gmi.gd
   - DOMAIN-SUFFIX,tracker.ilibr.org
@@ -62,13 +61,12 @@ payload:
   - DOMAIN-SUFFIX,tracker.pmman.tech
   - DOMAIN-SUFFIX,tracker.qu.ax
   - DOMAIN-SUFFIX,tracker.renfei.net
-  - DOMAIN-SUFFIX,tracker.skynetcloud.site
-  - DOMAIN-SUFFIX,tracker.torrent.eu.org
+  - DOMAIN-SUFFIX,tracker.skyts.net
   - DOMAIN-SUFFIX,tracker.torrents.observer
+  - DOMAIN-SUFFIX,tracker.tryhackx.org
   - DOMAIN-SUFFIX,tracker.waaa.moe
   - DOMAIN-SUFFIX,tracker.wildkat.net
   - DOMAIN-SUFFIX,tracker.zhuqiy.com
   - DOMAIN-SUFFIX,tracker.zhuqiy.dgj055.icu
   - DOMAIN-SUFFIX,tracker2.dler.org
-  - DOMAIN-SUFFIX,whybother.torrentonline.cc
   - DOMAIN-SUFFIX,yuptracker-eu.gaijinent.com
